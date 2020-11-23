@@ -1,0 +1,20 @@
+.parent__carouselItemsContainer {
+    width: 350px;
+    height: 200px;
+    backgroundColor: red;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.carouselItemsContainer {
+    display: flex;
+    flexDirection: row;
+    width: fit-content;
+}
+
+.buttonsSwipe {
+    display: flex;
+    flexDirection: row;
+    width: fit-content;
+    grid-gap: 10px;
+}

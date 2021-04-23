@@ -1,6 +1,6 @@
 # react-carousel
 
-## Instructions: 
+## Instruction: 
 - Clone the repo
 - Run **`npm install`**
 - Run **`npm start`**
